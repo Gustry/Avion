@@ -1,0 +1,5 @@
+LEFT,RIGHT,UP,DOWN
+q,d,z,s
+g,j,y,h
+u,i,o,p
+c,v,b,n

@@ -1,0 +1,7 @@
+roulant=True
+hydravion=True
+vitesse=1
+lourd=0
+vertigineux=1
+inverseV=True
+inverseH=True

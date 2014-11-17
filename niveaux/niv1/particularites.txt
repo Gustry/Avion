@@ -1,0 +1,5 @@
+sol=430
+surface=mer
+plafond=0
+gravite=1
+vitesse=0
